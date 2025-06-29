@@ -1,4 +1,0 @@
-Flask
-textblob
-google-api-python-client
-flask-cors
